@@ -1,7 +1,7 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhesham6&layout=compact&theme=tokyonight"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhesham6&layout=compact&theme=merko"/>
 
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -25,7 +25,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AhmedHesham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedhesham16/)](https://www.linkedin.com/in/ahmedhesham16/)
 [![Gmail Badge](https://img.shields.io/badge/-mail@etch.co-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadheshamabdelkader@gmail.com)](mailto:ahmadheshamabdelkader@gmail.com)
-
 
 ## ⚡ Domains:
 - Internet of Things
