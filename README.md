@@ -24,7 +24,7 @@
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AhmedHesham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedhesham16/)](https://www.linkedin.com/in/ahmedhesham16/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadheshamabdelkader@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedheshamabdelkader@gmail.com)](mailto:ahmadheshamabdelkader@gmail.com)
 
 
 ## ⚡ Domains:
