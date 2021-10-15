@@ -1,7 +1,7 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhesham6&layout=compact"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhesham6&layout=compact&theme=tokyonight"/>
 
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
