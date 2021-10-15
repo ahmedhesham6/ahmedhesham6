@@ -23,7 +23,7 @@
   </p>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/ahmedhesham16/)
+[![Linkedin Badge](https://img.shields.io/badge/-AhmedHesham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedhesham16/)](https://www.linkedin.com/in/ahmedhesham16/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadheshamabdelkader@gmail.com)
 
 
