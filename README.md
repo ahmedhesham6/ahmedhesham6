@@ -28,6 +28,6 @@
  &nbsp;
 
 ## ⚡ Domains:
-- Internet of Things
 - Web Development
+- Blockchain
 
