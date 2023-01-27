@@ -8,7 +8,7 @@ I switched careers to pursue web development, I am a self taught developer, than
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [ahmadheshamabdelkader@gmail.com](mailto:ahmadheshamabdelkader@gmail.com)
-* 🚀  I'm currently working on [Zammit](http://zammit.shop)
+* 🚀  I'm currently working on [Klivvr](https://klivvr.com)
 * 🧠  I'm learning Web3
 
 <a href="https://www.twitter.com/AhmedEtcho" target="_blank" rel="noreferrer"><img
