@@ -1,15 +1,14 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> I am Ahmed Abdelkader
 =================================
 
-Fullstack Web Developer
+Fullstack Software Engineer
 -----------------------
 
-I switched careers to pursue web development, I am a self taught developer, thanks to YouTube.
+I switched careers to pursue software development, I am a self taught developer, thanks to YouTube.
 
-* 🌍  I'm based in Cairo, Egypt
+* 🌍  I'm based in Vienna, Austria
 * ✉️  You can contact me at [ahmadheshamabdelkader@gmail.com](mailto:ahmadheshamabdelkader@gmail.com)
-* 🚀  I'm currently working on [Klivvr](https://klivvr.com)
-* 🧠  I'm learning Web3
+* 🚀  I'm currently working on [Stakpak](https://stakpak.dev)
 
 <a href="https://www.twitter.com/AhmedEtcho" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AhmedEtcho?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
